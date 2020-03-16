@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb949e42-7899-4e1b-8d1d-2d2c54e88211" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14/libexec" />
+  <component name="ProjectId" id="1YzQwYvPzhAD12px8ewbMH7aK47" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestSaveToDeckAndNewDeckFromFile in github.com/luk206/cards">
+    <configuration name="go build github.com/luk206/cards" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="cards" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/luk206/cards" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go deck.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="cards" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go|$PROJECT_DIR$/deck.go" />
+      <package value="github.com/luk206/cards" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSaveToDeckAndNewDeckFromFile in github.com/luk206/cards" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="cards" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/luk206/cards" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestSaveToDeckAndNewDeckFromFile$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test github.com/luk206/cards" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="cards" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/luk206/cards" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build github.com/luk206/cards" />
+      <item itemvalue="Go Build.go build main.go deck.go" />
+      <item itemvalue="Go Test.go test github.com/luk206/cards" />
+      <item itemvalue="Go Test.TestSaveToDeckAndNewDeckFromFile in github.com/luk206/cards" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestSaveToDeckAndNewDeckFromFile in github.com/luk206/cards" />
+        <item itemvalue="Go Test.go test github.com/luk206/cards" />
+        <item itemvalue="Go Build.go build main.go deck.go" />
+        <item itemvalue="Go Build.go build github.com/luk206/cards" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584016528584">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1584016528584" />
+    <state x="535" y="160" key="#go_build_main.go" timestamp="1584016342449">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="535" y="160" key="#go_build_main.go/0.0.1680.1050@0.0.1680.1050" timestamp="1584016342449" />
+    <state width="1638" height="240" key="GridCell.Tab.0.bottom" timestamp="1584369904168">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="240" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1584369904168" />
+    <state width="1638" height="240" key="GridCell.Tab.0.center" timestamp="1584369904168">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="240" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1584369904168" />
+    <state width="1638" height="240" key="GridCell.Tab.0.left" timestamp="1584369904167">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="240" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1584369904167" />
+    <state width="1638" height="240" key="GridCell.Tab.0.right" timestamp="1584369904168">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="240" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1584369904168" />
+  </component>
+</project>
